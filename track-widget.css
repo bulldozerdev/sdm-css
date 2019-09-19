@@ -1,0 +1,7 @@
+.filterBlock {
+  color: red;
+}
+
+.filterBlock .mapboxgl-ctrl-bottom-left {
+  display: none;
+}
